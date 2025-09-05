@@ -1,3 +1,2 @@
 # bookbot
-My first repository on GitHub
-somthing about myself
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
